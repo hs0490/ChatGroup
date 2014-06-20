@@ -14,10 +14,12 @@ It performs following operations:
 ### SAMPLE OUTPUT
 
 - SERVER:
-- Waiting for Clients:
-- HIMANSHU is Online
-- BRYAN is 
-- HARSH is Online
+
+Waiting for Clients:
+
+HIMANSHU is Online
+BRYAN is Online
+HARSH is Online
 - BRYAN is Offline
 
 -------------------------------------------------------------------------------------------------------------------------

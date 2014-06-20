@@ -13,16 +13,15 @@ It performs following operations:
   
 ### SAMPLE OUTPUT
 
--SERVER:                                     
+SERVER:
+Waiting for Clients:
+HIMANSHU is Online
+BRYAN is 
+HARSH is Online
+BRYAN is Offline
 
--Waiting for Clients:
+-------------------------------------------------------------------------------------------------------------------------
 
--HIMANSHU is Online
--BRYAN is Online
--HARSH is Online
--BRYAN is Offline
-
--------------------------------------------------------------------------------------------------------------------------------------
 -CLIENT 1:         
                                                                   
 -Please Enter Following Commands:
